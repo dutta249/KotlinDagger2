@@ -21,3 +21,4 @@ The most important advantage is that it increases the possibility of reusing the
     apply plugin: 'kotlin-kapt'
 ```
 
+Bengali
